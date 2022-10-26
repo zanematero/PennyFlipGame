@@ -56,7 +56,15 @@ button {
 #clear:hover {
     background: linear-gradient(to bottom left, red, orange);
 }
-
+#result {
+    font-size: 24pt;
+    color: orange;
+    font-weight: bold;
+}
+#button-section {
+    border: 1px solid black;
+    padding: 10px;
+}
 /* Scoreboard Styles */
 table, 
 th, 
